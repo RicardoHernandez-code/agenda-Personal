@@ -1,0 +1,70 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+table {
+    text-align: center;
+    justify-content: center;
+}
+
+tr {
+    text-align: center;
+}
+
+thead {
+    text-align: center;
+    justify-content: center;
+}
+
+button {
+    margin: 7px;
+}
+
+.boton-edicion {
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+.mesIndex {
+    color: black;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.mesIndex:hover {
+    color: blueviolet;
+    transition-duration: 0.4s;
+    text-decoration: none;
+}
+
+#nuevoContacto {
+    margin-right: 30px;
+}
+
+.campoDato {
+    text-transform: capitalize;
+    width: 340px;
+    text-align: center;
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+.campoMail {
+    text-transform: lowercase;
+    width: 340px;
+    text-align: center;
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+.formulario {
+    border-style: solid;
+    border-color: darkgrey;
+    border-width: 1px;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    background-color: dodgerblue;
+    color: white;
+}
